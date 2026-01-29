@@ -1,2 +1,5 @@
 .venv/clear
 __pycache__/
+
+logs/*
+!logs/.gitkeep
